@@ -38,6 +38,5 @@ I thrive on collaboration and insightful AI conversations. Let's connect and con
 ---
 
 Your visit is much appreciated. Here's to shaping a future brimming with innovative AI solutions!
-<p align="center">
-  <img src="https://github.com/guyfloki/guyfloki/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake"/>
-</p>
+
+![GitHub Contribution Grid Snake](https://github.com/guyfloki/guyfloki/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
