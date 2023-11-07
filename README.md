@@ -24,7 +24,7 @@ I'm Liubomyr, a passionate explorer at the intersection of machine learning and 
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - The backbone for my diverse ML applications.
-- 
+  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 - Transforming data into insights with powerful visualizations.
 
