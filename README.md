@@ -30,7 +30,11 @@ I'm Liubomyr, a passionate explorer at the intersection of machine learning and 
 
 ## 🌟 Spotlight on Projects
 
-Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see my work in action, like [Project Name], a [brief project description].
+Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see my work in action
+<!---
+, like [Project Name], a [brief project description].
+-->
+
 
 ## 🤝 Connect and Collaborate
 
