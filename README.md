@@ -30,10 +30,8 @@ I'm Liubomyr, a passionate explorer at the intersection of machine learning and 
 
 ## 🌟 Spotlight on Projects
 
-Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see my work in action
-<!---
-, like [Project Name], a [brief project description].
--->
+Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see my work in action, like [ai-image-detector](https://github.com/guyfloki/ai-image-detector), a tool to distinguish between AI-generated and human-created images using the CvT-13 model..
+
 
 
 ## 🤝 Connect and Collaborate
