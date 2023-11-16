@@ -38,8 +38,7 @@ Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see
 
 I thrive on collaboration and insightful AI conversations. Let's connect and contribute to the future of AI!
 
-📫 Reach me at: [guyfloki@gmail.com](guyfloki@gmail.com) or [Liubomir.horbatko@gmail.com](Liubomir.horbatko@gmail.com)
-
+📫 Reach me at: [Liubomir.horbatko@gmail.com](Liubomir.horbatko@gmail.com) or [guyfloki@gmail.com](guyfloki@gmail.com)
 ---
 
 Your visit is much appreciated. Here's to shaping a future brimming with innovative AI solutions!
