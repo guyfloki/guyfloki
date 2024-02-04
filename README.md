@@ -3,7 +3,7 @@
 I'm Liubomyr, a passionate explorer at the intersection of machine learning and creative problem-solving.
 
 <p align="center">
-  <img src="./miss_mi nutes.gif" alt="Miss Minutes Greeting"/>
+  <img src="./miss_minutes.gif" alt="Miss Minutes Greeting"/>
 </p>
 
 ## 🧐 About Me
