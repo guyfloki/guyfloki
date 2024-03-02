@@ -30,7 +30,7 @@ I'm Liubomyr, a passionate explorer at the intersection of machine learning and 
 
 ## 🌟 Spotlight on Projects
 
-Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see my work in action, like [ai-image-detector](https://github.com/guyfloki/ai-image-detector), a tool to distinguish between AI-generated and human-created images using the CvT-13 model.
+Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see my work in action. New library [WaveSync](https://github.com/guyfloki/wavesync) for nuanced, nonlinear, and rapid analysis of vectors and embeddings or [ai-image-detector](https://github.com/guyfloki/ai-image-detector), a tool to distinguish between AI-generated and human-created images using the CvT-13 model.
 
 
 
