@@ -38,7 +38,12 @@ Dive into my [repositories](https://github.com/guyfloki?tab=repositories) to see
 
 I thrive on collaboration and insightful AI conversations. Let's connect and contribute to the future of AI!
 
-📫 Reach me at:  [Liubomir.horbatko@gmail.com](Liubomir.horbatko@gmail.com) or [guyfloki@gmail.com](guyfloki@gmail.com)
+📫 Reach me at:  
+
+<a href="https://t.me/AGI_person">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50" alt="Telegram"/>
+</a>
+
 ---
 
 Your visit is much appreciated. Here's to shaping a future brimming with innovative AI solutions!
