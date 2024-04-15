@@ -14,8 +14,6 @@ I'm Liubomyr, a passionate explorer at the intersection of machine learning and 
 
 ## 🛠️ My Technical Toolbox
 
-![Neural Network Forward Propagation](./ neural_network_forward.gif)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - My go-to language for data science and AI.
 
