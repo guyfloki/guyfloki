@@ -1,7 +1,5 @@
 # Welcome to My World of AI Innovation!
 
-I'm Liubomyr.
-
 <p align="center">
   <img src="./miss_minutes.gif" alt="Miss Minutes Greeting"/>
 </p>
