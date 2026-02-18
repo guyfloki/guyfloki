@@ -1,6 +1,6 @@
 # Welcome to My World of AI Innovation!
 
-I'm Liubomyr, a passionate explorer at the intersection of machine learning and creative problem-solving.
+I'm Liubomyr.
 
 <p align="center">
   <img src="./miss_minutes.gif" alt="Miss Minutes Greeting"/>
